@@ -1,0 +1,46 @@
+
+
+        body {
+            background-color: #F7E9D7;
+            text-align: center;
+            
+        }
+        hr {
+            
+            border-style: dotted none none;
+            border-color: grey;
+            width: 3%;
+            border-width: 5px
+            
+            
+        }
+        h1 {
+            color:#5584AC;
+            font-family:'Courier New', Courier, monospace
+        }
+        h3 {
+            color: #5584AC;
+         }
+
+         h2 {
+             text-decoration: underline;
+         }
+         img {
+             height: 150px;
+             width: 150px;
+         }
+         .cv {
+             width: 50%;
+             margin-left: 25%;
+
+         }
+         .table {
+             margin-left: 35%;
+         }
+
+         .table2 {
+             margin-left: 40% ;
+         }
+
+
+        
